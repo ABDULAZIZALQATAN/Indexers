@@ -7,7 +7,7 @@ CommonCore Document Indexer
 
 Brief :
 -------
-Lucene indexer for CommonCore **2017** 
+Lucene indexer for [CommonCore **2017**](https://trec.nist.gov/data/core2017.html) 
 
 Contents :
 ---------
