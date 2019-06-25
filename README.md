@@ -12,15 +12,17 @@ Lucene indexer for CommonCore 2017
 Contents :
 ---------
 a- Indexer 
-
-----------
+<br/>
 b- CommonCore Topics parser : parsing topics to a readable format to be used later by [RetrievalApp](https://github.com/lucene4ir/lucene4ir/blob/master/README.md)
-	c- sample data and query files
+<br/>
+c- sample data and query files
 
 Json Line Document Indexer
 -----------------------------------------------
 Brief
-	This is a Lucene indexer to index CAR - Cast and WAPO ( CommonCore 2018) collections. this can be done with a [parser](https://github.com/stamatisvas/Index-TREC-CAR-MSMARCO-TREC-WASHINGTONPOST) that parses  files from all of these collections into one unified format 
+This is a Lucene indexer to index CAR - Cast and WAPO ( CommonCore 2018) collections. 
+<br/>
+This can be done with a [parser](https://github.com/stamatisvas/Index-TREC-CAR-MSMARCO-TREC-WASHINGTONPOST) that parses  files from all of these collections into one unified format 
 	 
 Contents :
  - Java class File (JsonLine Document Indexer) 	
