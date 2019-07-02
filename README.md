@@ -19,7 +19,6 @@ c- sample data and query files
 
 Json Line Document Indexer
 -----------------------------------------------
-Brief
 This is a Lucene indexer to index CAR - Cast and WAPO ( CommonCore 2018) collections. 
 <br/>
 This can be done with a [parser](https://github.com/stamatisvas/Index-TREC-CAR-MSMARCO-TREC-WASHINGTONPOST) that parses  files from all of these collections into one unified format 
